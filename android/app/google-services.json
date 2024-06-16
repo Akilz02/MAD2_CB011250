@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775764969893",
+    "project_id": "bubble-tea-app-da937",
+    "storage_bucket": "bubble-tea-app-da937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775764969893:android:8236352702ee60c281004c",
+        "android_client_info": {
+          "package_name": "com.example.test02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMFG1mtDHmOsv16xbfu0oLr491BX19czs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
